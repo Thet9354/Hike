@@ -1,8 +1,6 @@
-Certainly! Here's a sample README.md content for your GitHub profile for the iOS app called "Hike," developed using Swift and SwiftUI:
-
 # Hike - iOS App
 
-![Hike App Logo](link_to_app_logo.png)
+![Hike App Logo](hike-screenshot.png)
 
 Hike is an iOS app developed using Swift and SwiftUI. It offers a delightful user experience with a focus on complex card layouts, gradient animations, reusable components, and support for both light and dark modes. This README provides an overview of the app, its key features, and the learning objectives it offers.
 
